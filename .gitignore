@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research data and generated analysis files
+*.root
+*.parquet
+
+# Local editor settings
+.vscode/
