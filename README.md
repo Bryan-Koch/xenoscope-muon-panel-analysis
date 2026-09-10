@@ -2,6 +2,8 @@
 
 This repository contains the Python-based data analysis developed during a two-week undergraduate summer research internship in the Experimental Astroparticle Physics Group at the University of Zurich. The project focused on the commissioning and characterization of the cosmic-muon panel system of Xenoscope, a full-scale vertical demonstrator for the future DARWIN dark matter observatory.
 
+The full research report is available [here](report/summer_research_report.pdf).
+
 ## Project overview
 
 The project investigated cosmic-muon signals recorded by the muon panel system of Xenoscope. Two muon panels were studied using different trigger configurations: events triggered by a coincidence between both panels (AND) and events triggered by either panel (OR). Data from a separate third muon panel positioned on top of Xenoscope were analysed independently.
