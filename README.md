@@ -25,7 +25,7 @@ The resulting quantities are stored in Parquet files for further analysis. Their
 
 ## Repository structure
 
-The repository contains three Jupyter notebooks corresponding to the analysed datasets:
+The repository contains three Jupyter notebooks corresponding to the analysed datasets, together with the final research report:
 
 - `notebooks/1_and_2_muon.ipynb` — analysis of events triggered by a coincidence between Muon Panels 1 and 2 (AND)
 - `notebooks/1_or_2_muon.ipynb` — analysis of events triggered by either Muon Panel 1 or Muon Panel 2 (OR)
