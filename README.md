@@ -30,6 +30,7 @@ The repository contains three Jupyter notebooks corresponding to the analysed da
 - `notebooks/1_and_2_muon.ipynb` — analysis of events triggered by a coincidence between Muon Panels 1 and 2 (AND)
 - `notebooks/1_or_2_muon.ipynb` — analysis of events triggered by either Muon Panel 1 or Muon Panel 2 (OR)
 - `notebooks/3_muon.ipynb` — analysis of events triggered by Muon Panel 3, positioned on top of Xenoscope
+- `report/summer_research_report.pdf` — final report of the undergraduate summer research project
 
 Each notebook performs the waveform processing and provides distributions and correlations of the extracted pulse quantities for the corresponding dataset.
 
